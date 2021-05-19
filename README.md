@@ -20,6 +20,16 @@ I am Gregorio Martocci! I am working on projects related to web development and 
 
 <br />
 
+### Talking about Personal Stuffs:
+
+- 👨🏽‍💻 I’m currently a designer student at my last year; 
+- 🤔 My interests are with React and Js programming, such as designing user experiences, digital interfaces etc..;
+- 💼 I’m pursuing a Design's degree at University of La Plata;
+- 💬 Ask me about anything, I am happy to help;
+- 📫 Please email me if you have any questions.
+
+<br />
+
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
@@ -80,13 +90,7 @@ I am Gregorio Martocci! I am working on projects related to web development and 
 I love programming and I love React.
 
 
-### Talking about Personal Stuffs:
 
-- 👨🏽‍💻 I’m currently a designer student at my last year; 
-- 🤔 My interests are with React and Js programming, such as designing user experiences, digital interfaces etc..;
-- 💼 I’m pursuing a Design's degree at University of La Plata;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 Please email me if you have any questions.
 
 ### Languages and Tools:
 
