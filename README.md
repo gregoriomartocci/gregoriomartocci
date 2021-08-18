@@ -21,7 +21,7 @@
   
   <p align="center"><br/>
    <a href="https://www.linkedin.com/in/gregorio-martocci-b082a71a9/">
-    <img src="https://img.shields.io/badge/linkedin-gregorio--martocci-blue">
+    <img src="https://img.shields.io/badge/linkedin-gregorio-martocci-blue">
   </a>
 
 </p>
