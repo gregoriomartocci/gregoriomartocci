@@ -14,12 +14,11 @@ You can use the website to generate badges: https://shields.io/
 <!-- Talking about you -->
 **About Me:**
 
-- I’m currently working on __[Chalkboard](https://github.com/zjayers/chalkboard)__.
-- I’m currently learning __Ruby__, __PHP__, & __GoLang__.
+- I’m currently working on my Personal Poortfolio
+- I’m currently learning React Native, Docker and AWS.
 - I’m looking to collaborate on anything!
 - Ask me about anything, I am happy to help.
-- Fun-Fact: I was a mechanical engineering before becoming a software engineer.
-- How to reach me: __z.ayers@icloud.com__
+- How to reach me: __gregoriomartocci@gmail.com__
 
 ---
 
@@ -47,5 +46,5 @@ You can use the website to generate badges: https://shields.io/
 ---
 
 <a href="https://github.com/zjayers/github-readme-stats">
-   <img width="60%" alt="Zach's github stats" src="https://github-readme-stats.vercel.app/api?username=gregoriomartocci&show_icons=true&hide_border=true" />
+   <img width="60%" alt="Grego's github stats" src="https://github-readme-stats.vercel.app/api?username=gregoriomartocci&show_icons=true&hide_border=true" />
 </a>
