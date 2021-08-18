@@ -5,16 +5,16 @@
 You can use the website to generate badges: https://shields.io/
 -->
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://zachayers.io)
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/zjayers)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zjayers/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://martocci-dev.com)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/gregoriomartocci)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gregorio-martocci-b082a71a9/)
 
 &nbsp;
 
 <!-- Talking about you -->
 **About Me:**
 
-- I’m currently working on my Personal Poortfolio
+- I’m currently working on my Personal Portfolio
 - I’m currently learning React Native, Docker and AWS.
 - I’m looking to collaborate on anything!
 - Ask me about anything, I am happy to help.
