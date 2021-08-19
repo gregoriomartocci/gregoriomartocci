@@ -5,7 +5,7 @@
 You can use the website to generate badges: https://shields.io/
 -->
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](gregorio-martocci.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://gregorio-martocci.vercel.app/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gregorio-martocci-b082a71a9/)
 
 <!-- Talking about you -->
