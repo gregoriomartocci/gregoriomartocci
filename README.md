@@ -46,8 +46,6 @@ Created and integrated full admin & public views using MERN, React Hook Form, an
 
 ...and more! 📂 Check out my full portfolio
 
-📈 GitHub Highlights
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gregoriomartocci&show_icons=true&theme=radical&hide_border=true" width="60%" /> </p>
 📚 Certifications & Education
 🎓 Bachelor's Degree in Design — UNLP, Argentina
 
