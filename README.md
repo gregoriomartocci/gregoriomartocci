@@ -1,24 +1,61 @@
+<div align="center">
 👋 Hey there! I'm Gregorio Martocci
-Full Stack Developer | Passionate about building high-impact products with React, Node.js & TypeScript
-🚀 Always learning. Always shipping.
+💻 Full Stack Developer | React • Node • TypeScript | 5+ years building web products that matter
+📍 La Plata, Buenos Aires, Argentina — GMT -3
+📧 gregoriomartocci@gmail.com • 📱 +54 9 221 567 3629
+🌐 Portfolio | LinkedIn
 
+</div>
+🚀 Who I Am
+🧠 I'm a curious, proactive and versatile Full Stack Developer with 5+ years of experience delivering scalable, user-friendly, and robust digital products using:
 
-🚀 About Me
-🔧 4+ years building scalable web apps using React, Node.js, Express & PostgreSQL
+React + Next.js for modern interfaces
 
-📦 Recently working with Docker, microservices & cloud infrastructure (AWS & GCP)
+Node.js + Express for fast, maintainable backends
 
-📱 Exploring mobile development with React Native
+PostgreSQL + MongoDB for flexible data storage
 
-💡 I love solving real-world problems and collaborating with teams that care about product and code quality
+Docker, AWS, CMS integration, Agile/Scrum workflows
 
-💬 Ask me anything! I enjoy helping others and learning along the way
+I've built products for startups and enterprises in Argentina, Mexico, and the USA, across industries like:
 
-📫 Reach me at: gregoriomartocci@gmail.com
+🛡️ Security • 🏡 Real Estate • 📦 Logistics • 📬 Mail Services • 📈 Tax Advice • 🔐 Smart Contracts
 
-🛠️ Tech Stack & Tools
-<p align="left"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="40" alt="JavaScript" /> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="40" alt="TypeScript" /> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="40" alt="React" /> <img src="https://www.vectorlogo.zone/logos/reduxjs/reduxjs-icon.svg" width="40" alt="Redux" /> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40" alt="Node.js" /> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="40" alt="Express" /> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="40" alt="PostgreSQL" /> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="40" alt="MongoDB" /> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" alt="Docker" /> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" alt="Git" /> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" alt="AWS" /> <img src="https://www.vectorlogo.zone/logos/html5/html5-icon.svg" width="40" alt="HTML5" /> <img src="https://www.vectorlogo.zone/logos/css3/css3-icon.svg" width="40" alt="CSS3" /> </p>
-📈 GitHub Stats
-<a href="https://github.com/gregoriomartocci"> <img width="60%" alt="Gregorio's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gregoriomartocci&show_icons=true&theme=tokyonight&hide_border=true" /> </a>
-⚡ Fun Fact
-I'm not just building apps—I’m building momentum. Let's build something awesome together.
+🌱 Currently deepening my skills in React Native, AWS, and microservice architecture.
+
+🧰 Tech Stack
+<div align="center">
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,postgres,mongodb,docker,aws,materialui,tailwind,figma,git,jest,storybook" /><br/>
+
+</div>
+🧪 What I’ve Built
+🔹 Zoomcare (GlobalLogic) — Healthcare Platform (USA Clinics)
+Developed robust UI components and testing flows for clinic software using React, Next.js, MUI, Storybook, Jest.
+
+🔹 Verizon Marketplace — APIs & Services Portal
+Scalable marketplace architecture using Next.js, component libraries, CMS (ContentStack) and Agile methodologies.
+
+🔹 Urbano — Shipment Tracking App
+Implemented real-time tracking, mobile-first design, and Dockerization using Ionic, NestJS, Postgres.
+
+🔹 GNV Group — Admin Dashboard + Institutional Site
+Created and integrated full admin & public views using MERN, React Hook Form, and React Query.
+
+...and more! 📂 Check out my full portfolio
+
+📈 GitHub Highlights
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gregoriomartocci&show_icons=true&theme=radical&hide_border=true" width="60%" /> </p>
+📚 Certifications & Education
+🎓 Bachelor's Degree in Design — UNLP, Argentina
+
+✅ Full Stack Developer — Digital House
+
+✅ Full Stack Developer — Henry Bootcamp
+
+✨ Let’s Connect!
+If you're looking for a developer who blends clean code with product thinking, I’d love to chat!
+Whether it's a role, a collaboration or just to connect, drop me a line!
+
+📧 gregoriomartocci@gmail.com
+🌐 gregorio-martocci.vercel.app
+💼 LinkedIn
