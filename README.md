@@ -1,11 +1,14 @@
 <div align="center">
-👋 Hey there! I'm Gregorio Martocci
-💻 Full Stack Developer | React • Node • TypeScript | 5+ years building web products that matter
-📍 La Plata, Buenos Aires, Argentina — GMT -3
-📧 gregoriomartocci@gmail.com • 📱 +54 9 221 567 3629
-🌐 Portfolio | LinkedIn
+
+# 👋 Hey there! I'm **Gregorio Martocci**  
+### 💻 Full Stack Developer | React • Node • TypeScript | 5+ years building web products that matter
+
+📍 La Plata, Buenos Aires, Argentina — GMT -3  
+📧 gregoriomartocci@gmail.com • 📱 +54 9 221 567 3629  
+🌐 [Portfolio](https://gregorio-martocci.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/gregorio-martocci-b082a71a9/)
 
 </div>
+
 🚀 Who I Am
 🧠 I'm a curious, proactive and versatile Full Stack Developer with 5+ years of experience delivering scalable, user-friendly, and robust digital products using:
 
