@@ -1,62 +1,77 @@
-<div align="center">
+<h1 align="center">Hi, I'm Gregorio Martocci 👋</h1>
+<h3 align="center">Full Stack Developer · React · Next.js · TypeScript · Node.js</h3>
 
-# 👋 Hey there! I'm **Gregorio Martocci**  
-### 💻 Full Stack Developer | React • Node • TypeScript | 5+ years building web products that matter
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+production+apps+for+5%2B+years;React+%2B+Next.js+%2B+TypeScript+%2B+Node.js;Ex-GlobalLogic+%E2%80%94+Verizon+%26+Zoomcare+(US+Healthcare);Full+stack%2C+backend-leaning%2C+AI-assisted+workflow" alt="Typing SVG" />
+</p>
 
-📍 La Plata, Buenos Aires, Argentina — GMT -3  
-📧 gregoriomartocci@gmail.com • 📱 +54 9 221 567 3629  
-🌐 [Portfolio](https://gregorio-martocci.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/gregorio-martocci-b082a71a9/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/gregorio-martocci-b082a71a9/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:gregoriomartocci@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/La%20Plata,%20Argentina-GMT--3-38BDF8?style=for-the-badge" />
+</p>
 
-</div>
+---
 
-🚀 Who I Am
-🧠 I'm a curious, proactive and versatile Full Stack Developer with 5+ years of experience delivering scalable, user-friendly, and robust digital products using:
+### 🧭 About me
 
-React + Next.js for modern interfaces
+I'm a full stack developer with **5 years of experience**, specialized in **React**, **Next.js**, and **TypeScript**, with solid backend chops in **Node.js**, **Express**, **PostgreSQL**, and **MongoDB**. I've built enterprise-grade platforms — an API and services marketplace for **Verizon**, and healthcare applications for **Zoomcare** (US clinics) — as part of the team at GlobalLogic, plus full stack work for startups across the US, Mexico, and Argentina in security, real estate, tax advisory, mail services, and smart contracts.
 
-Node.js + Express for fast, maintainable backends
+I care about shipping tested, typed, maintainable code — and I use AI tooling (**Claude Code**, Cursor, Copilot) deliberately to move faster without cutting corners.
 
-PostgreSQL + MongoDB for flexible data storage
+- 🔭 Currently building backend services and REST APIs with TypeScript + Node.js
+- 🌱 Deepening my Prisma / PostgreSQL data-modeling skills
+- 🤖 Ship real projects with **Claude Code** day to day (see below)
+- 🌎 Fluent English · Native Spanish · GMT-3, easy overlap with US & EU hours
+- 💬 Ask me about React/Next.js architecture, API design, or AI-assisted dev workflows
 
-Docker, AWS, CMS integration, Agile/Scrum workflows
+---
 
-I've built products for startups and enterprises in Argentina, Mexico, and the USA, across industries like:
+### 🛠️ Tech Stack
 
-🛡️ Security • 🏡 Real Estate • 📦 Logistics • 📬 Mail Services • 📈 Tax Advice • 🔐 Smart Contracts
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,nestjs,postgres,mongodb,mysql,docker,aws,azure,git,figma,jest" />
+</p>
 
-🌱 Currently deepening my skills in React Native, AWS, and microservice architecture.
+**Languages:** JavaScript, TypeScript
+**Frontend:** React, Next.js, Redux, React Query, Tailwind CSS, Material UI, Storybook
+**Backend:** Node.js, Express, NestJS
+**Databases:** PostgreSQL, MongoDB, MySQL, Prisma, TypeORM
+**Testing:** Jest, React Testing Library, Cypress
+**DevOps / Cloud:** Docker, AWS, Azure, Digital Ocean
+**AI-assisted dev:** Claude Code, Cursor, GitHub Copilot, ChatGPT — prompt engineering, code generation, refactoring, debugging, test generation, code review
 
-🧰 Tech Stack
-<div align="center">
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,postgres,mongodb,docker,aws,materialui,tailwind,figma,git,jest,storybook" /><br/>
+---
 
-</div>
-🧪 What I’ve Built
-🔹 Zoomcare (GlobalLogic) — Healthcare Platform (USA Clinics)
-Developed robust UI components and testing flows for clinic software using React, Next.js, MUI, Storybook, Jest.
+### 💼 Experience highlights
 
-🔹 Verizon Marketplace — APIs & Services Portal
-Scalable marketplace architecture using Next.js, component libraries, CMS (ContentStack) and Agile methodologies.
+| Company | Role | Highlights |
+|---|---|---|
+| **Xseed Solutions** | Software Engineer | Backend services in TypeScript/Node.js on a distributed remote team; REST APIs consumed by frontend apps |
+| **GlobalLogic** | Senior Frontend Developer | **Zoomcare** (US healthcare) — React, Next.js, Material UI, Storybook, Jest · **Verizon** — API & services marketplace, Next.js/React, modular architecture · **YPF** — operational apps in production, React/Ionic + Azure |
+| **Urbano** | Full Stack Developer | NestJS backend, PostgreSQL + TypeORM, Dockerized services, real-time shipment tracking with Google Maps |
+| **GNV Group** | Full Stack Developer | MERN stack, admin panel built from scratch, APIs with auth from the ground up |
+| **Paydece / H&CO** | Frontend Developer | MVP landing pages, design-system components, i18n, testing (Cypress) |
 
-🔹 Urbano — Shipment Tracking App
-Implemented real-time tracking, mobile-first design, and Dockerization using Ionic, NestJS, Postgres.
+---
 
-🔹 GNV Group — Admin Dashboard + Institutional Site
-Created and integrated full admin & public views using MERN, React Hook Form, and React Query.
+### 🤖 How I use Claude Code
 
-...and more! 📂 Check out my full portfolio
+I run Claude Code on real projects, not just toy examples — recent work includes Shopify builds like **Protefitness** and **La Vinoteca Errante**, where I use it for scaffolding features, refactors, test generation, and debugging while keeping full control over architecture decisions.
 
-📚 Certifications & Education
-🎓 Bachelor's Degree in Design — UNLP, Argentina
+---
 
-✅ Full Stack Developer — Digital House
+### 📌 Featured project
 
-✅ Full Stack Developer — Henry Bootcamp
+**[protefitness](https://github.com/gregoriomartocci/protefitness)** — Shopify storefront build, developed with an AI-assisted workflow using Claude Code.
 
-✨ Let’s Connect!
-If you're looking for a developer who blends clean code with product thinking, I’d love to chat!
-Whether it's a role, a collaboration or just to connect, drop me a line!
+---
 
-📧 gregoriomartocci@gmail.com
-🌐 gregorio-martocci.vercel.app
-💼 LinkedIn
+### 📫 Get in touch
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/gregorio-martocci-b082a71a9/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:gregoriomartocci@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center"><sub>Open to remote full stack / backend-leaning opportunities.</sub></p>
